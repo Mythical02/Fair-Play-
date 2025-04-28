@@ -1,11 +1,12 @@
 # Fair-Play-
 ELA Project
-**How to Run:**
-1. Make sure you have Java installed and VS 
-2. Download `EconomicLifeSimulator.java`
-3. Open terminal in the download folder
-4. Compile: `javac EconomicLifeSimulator.java`
-5. Run: `java EconomicLifeSimulator`
+**How to Install & Run:**
+1. Download Java by just searching up java on your web browser
+2. Download Visual Studio Code
+3. Download `EconomicLifeSimulator.java`
+4. Open terminal in the download folder
+5. Compile: `javac EconomicLifeSimulator.java`
+6. Run: `java EconomicLifeSimulator`
 
 **How to Play:**
 - Choose Upper or Lower class at start
