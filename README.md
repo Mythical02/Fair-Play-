@@ -1,12 +1,14 @@
 # Fair-Play-
-ELA Project
+Welcome to Fair Play?, a life simulator where you experience how economic inequality shapes destiny. Experience very different lives as either the wealthy elite or working lower class through events that highlight systemic advantages and barriers highliting economic inequality.
+
 **How to Install & Run:**
 1. Download Java by just searching up java on your web browser
 2. Download Visual Studio Code
 3. Download `EconomicLifeSimulator.java`
-4. Open terminal in the download folder
-5. Compile: `javac EconomicLifeSimulator.java`
-6. Run: `java EconomicLifeSimulator`
+4. Open Visual Studio Code
+5. On the top left click file and then open file
+6. Open `EconomicLifeSimulator.java`
+7. Run: `java EconomicLifeSimulator`
 
 **How to Play:**
 - Choose Upper or Lower class at start
@@ -20,4 +22,4 @@ ELA Project
 - Just type numbers when prompted
 - Follow on-screen choices
 
-Game demonstrates how starting wealth affects life outcomes.
+
